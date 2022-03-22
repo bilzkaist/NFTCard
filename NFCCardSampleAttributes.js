@@ -1,6 +1,11 @@
 {
+  "smartContractAddress" : "0xd0dc06D11109C6bbB0981619d9Ec66770f4e950B",
+  "nftNFCUID" : "049C64D2452B80",
+  "nftCardNumber" : "000723",
+  "edition" : "Limited Edition"
+  "sample" : "028/100"
   "image": "SpaceSnakeSample.png",
-  "name": "Space Snake Sample",
+  "name": "Space Snake # 5610",
   "description": "ISI Lab NFT Demo Card SAMPLE",
   "external_url": "isilab.kaist.ac.kr",
   "attributes": [
